@@ -1,0 +1,18 @@
+    #coloredDiv {
+            width: 200px;
+            height: 200px;
+            background-color: #ff0000;
+        }
+
+        .titulo{
+            color: rgb(255, 136, 0)
+            
+            }
+
+        .etiq{
+            color: rgb(0, 89, 255);
+        }
+
+        h1.titulo {
+            font-family: Algerian; /* Cambia "Arial" al tipo de letra deseado */
+        }
